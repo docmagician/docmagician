@@ -30,7 +30,7 @@
   <img src="https://github.com/docmagician/docmagician/blob/666fec3b9c293d2db4dddeb3e77a963dfc327def/assets/Fm.png" width="50" height="50">
  </a>
  <a href="https://github.com/docmagician/docmagician/blob/666fec3b9c293d2db4dddeb3e77a963dfc327def/assets/Fm.png">
-  <img src="https://github.com/docmagician/docmagician/blob/a4bfc13e4f603abf03bd51820eafec32ce622133/assets/d360.png" width="43" height="43" style="border-radius: 20px;">
+  <img src="https://github.com/docmagician/docmagician/blob/a4bfc13e4f603abf03bd51820eafec32ce622133/assets/d360.png" width="41" height="41" style="border-radius: 20px;">
  </a>
 </p>
 
