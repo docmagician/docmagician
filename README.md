@@ -126,4 +126,4 @@ This `README.md` file is special because it appears on my GitHub profile. You ca
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories and don’t hesitate to connect with me. Let’s build something amazing together! 🚀
+Thanks for visiting my profile! Feel free to explore my repositories and don’t hesitate to connect with me. Let’s build something amazing together!b
