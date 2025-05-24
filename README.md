@@ -89,7 +89,7 @@
 
 ![docmagician's Graph](https://github-readme-activity-graph.vercel.app/graph?username=docmagician&custom_title=DocMagician's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=12de4c&line=12de4c&point=12de4c&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
@@ -97,8 +97,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritin_tiwari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritin-tiwari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RitinTiwari) 
 
 <!--
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### 😂 Quote of the Day
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
 ---
 -->
