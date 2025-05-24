@@ -1,129 +1,110 @@
-# 👋 Hi, I’m Omkar Kharat (a.k.a. @docmagician)
+<h1 align="center">👋 Hi, I’m Omkar Kharat (a.k.a. @docmagician)</h1>
+<h3 align="center">Welcome to my GitHub profile!</h3>
+<p align="center">I’m a <b>Technical Writer | Information Developer</b> with over 3 years of experience in creating user-centric documentation for software products. I’m passionate about simplifying complex information and enhancing user experiences through clear, concise, and effective documentation. I’m also exploring the exciting world of <b>Web3</b> and its potential to revolutionize how we interact with technology.</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=docmagician&label=Profile%20views&color=0e75b6&style=flat" alt="Omkar Kharat" /> 
+</p>
 
-Welcome to my GitHub profile! I’m a **Technical Writer | Information Developer** with over 3 years of experience in creating user-centric documentation for software products. I’m passionate about simplifying complex information and enhancing user experiences through clear, concise, and effective documentation. I’m also exploring the exciting world of **Web3** and its potential to revolutionize how we interact with technology.
+<br>
 
----
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-## 👀 I’m interested in...
-- **Technical Writing**: Creating user manuals, API guides, release notes, and quick start guides.
-- **UX Writing**: Collaborating with UX designers to write user-friendly UI text and microcopy.
-- **AI and Automation**: Exploring AI models for customer support and documentation workflows.
-- **Docs as Code**: Streamlining documentation processes using modern tools and workflows.
-- **Web3**: Exploring decentralized technologies, blockchain, and smart contracts to understand their impact on documentation and user experiences.
+<br>
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
----
+<h3 align="left">Languages and Tools:</h3>
 
-## 🌱 I’m currently learning...
-- **AI Prompting**: Best practices for interacting with AI models and writing instructional documents.
-- **Docs as Code**: Implementing modern documentation workflows to reduce tool costs and improve efficiency.
-- **UI/UX Writing**: Enhancing my skills in creating user-friendly content for better product usability.
-- **Web3**: Learning about blockchain, decentralized applications (dApps), and smart contract documentation.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+ <a href="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/">
+    <img src="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/OxygenXMLEditor_icon_2019.svg" width="49" height="49">
+  </a>
+ <a href="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/Adobe_FrameMaker_icon_2021.svg">
+  <img src="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/Adobe_FrameMaker_icon_2021.svg" width="49" height="49">
+ </a>
+ <a href="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/">
+  <img src="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/Google_Docs_Logo.svg" width="51" height="49">
+ </a>
+  <a href="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/">
+  <img src="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/Microsoft_Office_Word_Logo.svg" width="52" height="49">
+ </a>
+   <a href="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/">
+  <img src="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/confluence-svgrepo-com.svg" width="55" height="55">
+ </a>
+</p>
+<p align="left">
+ <a href="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/canva.svg">
+    <img src="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/canva.svg" width="49" height="49" />
+  </a>
+ <a href="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/">
+    <img src="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/jira-1.svg" width="49" height="49" />
+  </a>
+  <a href="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/">
+    <img src="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/docusaurus-svgrepo-com.svg" width="49" height="49" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,md" />
+  </a> 
+ <a href="https://github.com/docmagician/docmagician/blob/070fb97dbffc4e275867984cb68e957683fec786/assets/xml.svg" />
+    <img src="https://github.com/docmagician/docmagician/blob/070fb97dbffc4e275867984cb68e957683fec786/assets/xml.svg" width="49" height="49" />
+  </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai" />
+  </a> 
+ <p align="left">
+ <a href="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/drawio-svgrepo-com.svg" />
+    <img src="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/drawio-svgrepo-com.svg" width="49" height="49" />
+  </a>
+   <a href="https://github.com/docmagician/docmagician/blob/070fb97dbffc4e275867984cb68e957683fec786/assets/swagger-svgrepo-com%20(1).svg" />
+      <img src="https://github.com/docmagician/docmagician/blob/070fb97dbffc4e275867984cb68e957683fec786/assets/swagger-svgrepo-com%20(1).svg" width="49" height="49" />
+      <img src="https://github.com/docmagician/docmagician/blob/cca164ab3535cce7fc84c84e268eaf5a580646d3/assets/crowdin-svgrepo-com.svg" width="49" height="49" />
+      <img src="https://github.com/docmagician/docmagician/blob/a01edceeec8be7b6f76e47cf482129bf4cef329e/assets/Symbol.svg" width="49" height="49" />
+      <img src="https://github.com/docmagician/docmagician/blob/a01edceeec8be7b6f76e47cf482129bf4cef329e/assets/alfresco-svgrepo-com.svg" width="49" height="49" />
+      <img src="https://github.com/docmagician/docmagician/blob/e6b4104f52aa51e2d88259e62d5321232406ccf0/assets/apps-snagit.svg" width="52" height="52" />
+ <p align="left">
+  
+</p>
 
----
+<br/>
 
-## 🤝 I’m looking to collaborate on...
-- **Open Source Documentation**: Contributing to open-source projects by improving their documentation.
-- **AI-Driven Documentation**: Exploring AI tools to automate and enhance documentation processes.
-- **Technical Writing Projects**: Collaborating on projects that require clear, user-centric documentation.
-- **Web3 Projects**: Contributing to Web3 projects by creating documentation for decentralized applications, smart contracts, and blockchain platforms.
 
-If you have an exciting project or idea, feel free to reach out! I’m always open to new opportunities.
+# 📊 GitHub Stats:
+| ![](https://github-readme-stats.vercel.app/api?username=docmagician&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> | ![](https://github-readme-streak-stats.herokuapp.com/?user=docmagician&theme=radical&hide_border=false)<br/> |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
----
 
-## 📫 How to reach me...
-- **Email**: omkarkharat596@gmail.com
-- **LinkedIn**: [Omkar Kharat](www.linkedin.com/in/technicalwriteromkar-kharat-2947b7207) 
-- **Portfolio**: [Docmagician](https://doc-magician.b12sites.com/index))
+### Activity
 
----
+![docmagician's Graph](https://github-readme-activity-graph.vercel.app/graph?username=docmagician&custom_title=DocMagician's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=12de4c&line=12de4c&point=12de4c&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-## 😄 Pronouns...
-He/Him
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
 
-## ⚡ Fun fact...
-I’ve worked on implementing an AI model (My Esko Beta) for customer support, which reduced support calls by 40%! 🚀
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritin_tiwari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritin-tiwari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RitinTiwari) 
 
----
-
-## 🛠️ Technical Skills
-
-### **Technical Writing Skills**
-- DITA, Markdown, S1000D
-- SDLC, DDLC, CMS
-- Information Mapping, Instruction Writing, UX Writing
-- Editing and Proofreading, API Documentation, XML, HTML
-
-### 🧰 **Tools**
-- **Authoring Tools**: Oxygen XML Editor, Confluence, MS Word, Adobe FrameMaker
-- **Graphics Tools**: MS Paint, Snag IT, FS Capture, Greenshot
-- **Presentation Tools**: Microsoft PowerPoint
-- **PDF Tools**: Adobe Acrobat, Adobe Reader, Foxit Reader
-- **E-learning Tools**: Adobe Captivate, Camtasia
-- **Others**: Jira, Git, VS Code, SAP, Alfresco, Yamagata, Figma
-
-### 🌐 **Web3 Skills**
-- Blockchain Basics
-- Smart Contract Documentation
-- Decentralized Applications (dApps)
-- Tokenomics and Whitepapers
-
----
-
-## 💼 Professional Experience
-
-### **Esko Software, Bangalore**
-**Technical Writer I | July 2024 – Present**
-- Write and maintain documentation (Admin Guides, User Manuals, API Documentation) for SaaS-based software products on AWS.
-- Collaborate with UX designers to improve user experience through UI text and microcopy.
-- Implemented AI model (My Esko Beta) for customer support, reducing support calls by 40%.
-- Managing translation of software strings for consistency across multiple languages.
-- Working on implementing **Docs as Code** to streamline documentation processes.
-
-### **Sonovision Actos, Bangalore**
-**Technical Writer | October 2021 – July 2024**
-- Authored Knowledge Base (KB) articles, SRS, and FSD documents for SaaS products on Salesforce (Heroku).
-- Implemented DITA XML and CMS, reducing writing time by 50% and minimizing errors by 80%.
-- Developed a performance evaluation tool (SWIP) for technical writers, later adopted by developers and testers.
-- Created a training plan for new technical writers to enhance knowledge transfer.
-
----
-
-## � Education & Certifications
-- **Aircraft Maintenance Engineering** from Pune Institute of Aviation Technology.
-- **Certifications**:
-  - Technical Writing
-  - Basic Agile Methodology
-  - API Basics
-  - UI/UX Writing
-  - Basics of HTML
-  - Software Testing
-  - DITA
+<!--
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+-->
 
-## 🌐 Web3 Exploration
-I’m currently diving into the world of **Web3**, exploring how decentralized technologies like blockchain and smart contracts can transform industries. My focus areas include:
-- **Smart Contract Documentation**: Writing clear and concise documentation for smart contracts to ensure transparency and usability.
-- **Decentralized Applications (dApps)**: Understanding how dApps work and documenting their functionality for end-users.
-- **Tokenomics and Whitepapers**: Analyzing and documenting token economics and whitepapers for blockchain projects.
+[![](https://visitcount.itsvg.in/api?id=docmagician&icon=0&color=3)](https://visitcount.itsvg.in)
 
----
+## 💰 Buy ME a Coffee
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ritintiwari) 
 
-## 🏆 Recent Projects
-Here are some of the projects I’ve worked on recently:
-1. **My Esko Beta AI Model**: Implemented AI for customer support, reducing support calls by 40%.
-2. **Docs as Code Implementation**: Streamlining documentation workflows to reduce costs and improve efficiency.
-3. **Knowledge Base Articles**: Authored self-service troubleshooting guides for SaaS products.
-4. **Web3 Documentation**: Exploring documentation for smart contracts and decentralized applications.
-
----
-
-## ✨ Special Note
-This `README.md` file is special because it appears on my GitHub profile. You can click the **Preview** link to see how it looks!
-
----
-
-Thanks for visiting my profile! Feel free to explore my repositories and don’t hesitate to connect with me. Let’s build something amazing together!b
