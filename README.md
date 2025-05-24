@@ -35,6 +35,9 @@
   <a href="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/">
   <img src="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/Microsoft_Office_Word_Logo.svg" width="52" height="49">
  </a>
+   <a href="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/">
+  <img src="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/confluence-svgrepo-com.svg" width="52" height="49">
+ </a>
 </p>
 
 - Backend
