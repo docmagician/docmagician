@@ -20,8 +20,8 @@
 <h3 align="left">Languages and Tools:</h3>
 &#9679; Writing
 <p align="left">
-  <a href="https://github.com/docmagician/docmagician/blob/666fec3b9c293d2db4dddeb3e77a963dfc327def/assets/vs.png">
-    <img src="https://github.com/docmagician/docmagician/blob/666fec3b9c293d2db4dddeb3e77a963dfc327def/assets/vs.png" width="50" height="50"  />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
  <a href="https://github.com/docmagician/docmagician/blob/666fec3b9c293d2db4dddeb3e77a963dfc327def/assets/oxygen.png">
     <img src="https://github.com/docmagician/docmagician/blob/666fec3b9c293d2db4dddeb3e77a963dfc327def/assets/oxygen.png" width="50" height="50"  />
