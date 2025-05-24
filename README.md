@@ -18,13 +18,13 @@
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <h3 align="left">Languages and Tools:</h3>
-&#9679; Writing
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
  <a href="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/">
-    <img src="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/OxygenXMLEditor_icon_2019.svg" width="49" height="49"  />
+    <img src="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/OxygenXMLEditor_icon_2019.svg" width="49" height="49">
   </a>
  <a href="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/Adobe_FrameMaker_icon_2021.svg">
   <img src="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/Adobe_FrameMaker_icon_2021.svg" width="49" height="49">
@@ -35,58 +35,59 @@
   <a href="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/">
   <img src="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/Microsoft_Office_Word_Logo.svg" width="52" height="49">
  </a>
-   <a href="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/">
-  <img src="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/confluence-svgrepo-com.svg" width="52" height="49">
+   <a href="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/">
+  <img src="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/confluence-svgrepo-com.svg" width="55" height="55">
  </a>
 </p>
-
-- Backend
 <p align="left">
+ <a href="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/canva.svg">
+    <img src="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/canva.svg" width="49" height="49" />
+  </a>
+ <a href="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/">
+    <img src="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/jira-1.svg" width="49" height="49" />
+  </a>
+  <a href="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/">
+    <img src="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/docusaurus-svgrepo-com.svg" width="49" height="49" />
+  </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,flask,fastapi,django" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
   </a>
 </p>
-
-- Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,materialui,bootstrap,scss" />
+    <img src="https://skillicons.dev/icons?i=html,css,md" />
+  </a> 
+ <a href="https://github.com/docmagician/docmagician/blob/070fb97dbffc4e275867984cb68e957683fec786/assets/xml.svg" />
+    <img src="https://github.com/docmagician/docmagician/blob/070fb97dbffc4e275867984cb68e957683fec786/assets/xml.svg" width="49" height="49" />
   </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai" />
+  </a> 
+ <p align="left">
+ <a href="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/drawio-svgrepo-com.svg" />
+    <img src="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/drawio-svgrepo-com.svg" width="49" height="49" />
   </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,firebase" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
-  </a>
+   <a href="https://github.com/docmagician/docmagician/blob/070fb97dbffc4e275867984cb68e957683fec786/assets/swagger-svgrepo-com%20(1).svg" />
+      <img src="https://github.com/docmagician/docmagician/blob/070fb97dbffc4e275867984cb68e957683fec786/assets/swagger-svgrepo-com%20(1).svg" width="49" height="49" />
+      <img src="https://github.com/docmagician/docmagician/blob/cca164ab3535cce7fc84c84e268eaf5a580646d3/assets/crowdin-svgrepo-com.svg" width="49" height="49" />
+      <img src="https://github.com/docmagician/docmagician/blob/a01edceeec8be7b6f76e47cf482129bf4cef329e/assets/Symbol.svg" width="49" height="49" />
+      <img src="https://github.com/docmagician/docmagician/blob/a01edceeec8be7b6f76e47cf482129bf4cef329e/assets/alfresco-svgrepo-com.svg" width="49" height="49" />
+      <img src="https://github.com/docmagician/docmagician/blob/e6b4104f52aa51e2d88259e62d5321232406ccf0/assets/apps-snagit.svg" width="52" height="52" />
+ <p align="left">
+  
 </p>
 
 <br/>
 
 
 # 📊 GitHub Stats:
-| ![](https://github-readme-stats.vercel.app/api?username=ritin0204&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> | ![](https://github-readme-streak-stats.herokuapp.com/?user=ritin0204&theme=radical&hide_border=false)<br/> |
+| ![](https://github-readme-stats.vercel.app/api?username=docmagician&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> | ![](https://github-readme-streak-stats.herokuapp.com/?user=docmagician&theme=radical&hide_border=false)<br/> |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritin0204&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)   |  ![](https://github-contributor-stats.vercel.app/api?username=ritin0204&limit=5&theme=radical&combine_all_yearly_contributions=true) |
 
 
 ### Activity
 
-![ritin0204's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritin0204&custom_title=Ritin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=12de4c&line=12de4c&point=12de4c&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![docmagician's Graph](https://github-readme-activity-graph.vercel.app/graph?username=docmagician&custom_title=DocMagician's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=12de4c&line=12de4c&point=12de4c&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -102,7 +103,7 @@
 ---
 -->
 
-[![](https://visitcount.itsvg.in/api?id=ritin0204&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=docmagician&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## 💰 Buy ME a Coffee
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ritintiwari) 
