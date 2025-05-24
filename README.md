@@ -23,8 +23,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
- <a href="https://github.com/docmagician/docmagician/blob/666fec3b9c293d2db4dddeb3e77a963dfc327def/assets/oxygen.png">
-    <img src="https://github.com/docmagician/docmagician/blob/666fec3b9c293d2db4dddeb3e77a963dfc327def/assets/oxygen.png" width="50" height="50"  />
+ <a href="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/OxygenXMLEditor_icon_2019.svg">
+    <img src="https://github.com/docmagician/docmagician/blob/42b7909b58a484ace3909c6b363fa3f5ec170d12/assets/OxygenXMLEditor_icon_2019.svg" width="49" height="49"  />
   </a>
  <a href="https://github.com/docmagician/docmagician/blob/666fec3b9c293d2db4dddeb3e77a963dfc327def/assets/Fm.png">
   <img src="https://github.com/docmagician/docmagician/blob/666fec3b9c293d2db4dddeb3e77a963dfc327def/assets/Fm.png" width="50" height="50">
